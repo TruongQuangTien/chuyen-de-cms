@@ -1,5 +1,9 @@
 <<<<<<< ours
+<<<<<<< ours
 file week1 branch week1 update 1
 =======
 file week1 branch week1 update
+>>>>>>> theirs
+=======
+file week1 branch week1 update 1
 >>>>>>> theirs
